@@ -1,0 +1,1 @@
+docker build -t ghcr.io/igorlb/saudenaregua.com.br:latest .
